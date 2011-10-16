@@ -2,9 +2,15 @@
 
 Provides a bson encoder for clojure that uses congomongo for bson serialization/deserialization to clojure maps.
 
+Todo
+
+Create cache of BSONEncoders to increase performance.
+
 ## Usage
 
+    (encode my-map)
 
+    (decode bytes)
 
 ## License
 
