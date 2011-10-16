@@ -1,0 +1,13 @@
+# clj-bson
+
+Provides a bson encoder for clojure that uses congomongo for bson serialization/deserialization to clojure maps.
+
+## Usage
+
+
+
+## License
+
+Copyright (C) 2011 Matt Hoyt
+
+Distributed under the Eclipse Public License, the same as Clojure.
