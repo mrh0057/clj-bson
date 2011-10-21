@@ -8,7 +8,7 @@ Create cache of BSONEncoders to increase performance.
 
 ## Usage
 
-    [clj-bson "0.1.0-SNAPSHOT"]
+    [clj-bson "0.1.0"]
 
     (encode my-map)
 
